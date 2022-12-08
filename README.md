@@ -2,7 +2,7 @@
 
 I am a DevOps engineer with experience in building and maintaining scalable, reliable, and secure infrastructure.
 
-![Wahyu Riski profile picture](https://wahyuriski.github.io/img/profile.png)
+![Wahyu Riski profile picture](https://github.com/wahyurap/wahyurap/blob/main/Wahyu%20Riski.png)
 
 ## About Me
 
